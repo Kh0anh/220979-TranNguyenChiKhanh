@@ -1,1 +1,1 @@
-# 220979-TranNguyenChiKhanh
+This repository is used for learning GitHub on web.
